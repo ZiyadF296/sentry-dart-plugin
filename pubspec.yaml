@@ -14,7 +14,7 @@ dependencies:
   ansicolor: ^2.0.1
   system_info2: ^3.0.1
   file: ^6.1.4
-  http: ^0.13.5
+  http: ^1.2.2
   crypto: ^3.0.2
   convert: ^3.0.2
   process: ^4.2.4
