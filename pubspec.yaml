@@ -13,7 +13,7 @@ dependencies:
   injector: ^2.0.0
   ansicolor: ^2.0.1
   system_info2: ^3.0.1
-  file: ^6.1.4
+  file: ^7.0.0
   http: ^1.2.2
   crypto: ^3.0.2
   convert: ^3.0.2
